@@ -1,0 +1,19 @@
+.card-container {
+  margin-top: 20px;
+
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  background-color: rgba(170, 180, 180, 0.836);
+
+  border: solid black 1px;
+  border-radius: 8px; 
+}
+
+.bs-card {
+  margin: 10px auto;
+}
+
+.center {
+  margin: 0 auto;
+}
